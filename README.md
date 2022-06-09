@@ -22,3 +22,6 @@
 	$python keras_server.py
 8. go to browser and open 
 	http://127.0.0.1:5000 
+	
+optionally user can use ngrok to make the app available on the internet using : 
+	$.\ngrok.exe http 5000
